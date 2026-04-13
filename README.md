@@ -71,7 +71,7 @@
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/muskaan-Sharma10/muskaan-Sharma10/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/muskaan-Sharma10/muskaan-Sharma10/output/github-contribution-grid-snake-pink.svg" />
 </p>
 
 ---
@@ -90,7 +90,7 @@
   <a href="http://www.linkedin.com/in/muskaan-sharma104">
     <img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:muskaan104sharma@gmail.com">
+  <a href="mailto:musk10love@gmail.com">
     <img src="https://img.shields.io/badge/Email-ff1493?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://github.com/muskaan-Sharma10">
